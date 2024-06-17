@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Mohan 
-- 👀 I’m interested in web developement using PHP, MYSQL , HTML, CSS
-- 🌱 I’m currently learning reactjs
+- 👀 I’m interested in web developement using PHP,Laravel,API MYSQL , HTML, CSS
+- 🌱 I’m currently learning NodeJs
 - 📫 How to reach me https://www.linkedin.com/in/mohan-c/
 
 <!---
