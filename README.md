@@ -2,9 +2,11 @@
 - 👀 I’m interested in web developement using PHP,Laravel,API MYSQL , HTML, CSS
 - 🌱 I’m currently learning NodeJs
 
+
 - 🤝 Let's Connect
-LinkedIn: https://www.linkedin.com/in/mohan-c/
-Email: cmohanbe2010@gmail.com
+  * LinkedIn: [Mohan](https://www.linkedin.com/in/mohan-c/)
+  * Email: cmohanbe2010@gmail.com
+
 Happy Coding! 🚀
 
 <!---
