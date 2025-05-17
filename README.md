@@ -1,11 +1,44 @@
-- 👋 Hi, I’m Mohan 
-- 👀 I’m interested in web developement using PHP,Laravel,API MYSQL , HTML, CSS
-- 🌱 I’m currently learning NodeJs
+# 👋 Hi there, I'm Mohan C
 
+🚀 **Backend Developer | Staff Software Engineer**  
+🎯 Passionate about building scalable, secure, and high-performing backend systems.
 
-- 🤝 Let's Connect
-  * LinkedIn: [Mohan](https://www.linkedin.com/in/mohan-c/)
-  * Email: cmohanbe2010@gmail.com
+---
+
+## 👨‍💻 About Me
+
+I’m a backend developer with **12+ years of experience** in building robust web applications using **PHP (Laravel, Lumen, CodeIgniter)** and **Node.js**. I specialize in developing **REST APIs**, architecting **microservices**, and working with cloud technologies like **AWS (SNS, SQS, S3, Lambda)**.
+
+I enjoy optimizing systems, leading backend upgrades, mentoring junior developers, and staying current with modern backend tech.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+- **Languages:** PHP, Node.js, JavaScript
+- **Frameworks:** Laravel, Lumen, CodeIgniter
+- **Databases:** MySQL, Redis
+- **Cloud & DevOps:** AWS (SNS, SQS, S3, Lambda), Docker, CI/CD
+- **Version Control:** Git, GitLab, Bitbucket
+- **CMS:** WordPress, Shopify, Joomla
+- **OS:** Linux (Ubuntu), Mac, Windows
+- **Others:** jQuery, AJAX, Jira, Slack
+
+---
+
+## 📚 Currently Exploring
+
+- 🚀 Advancing my knowledge in **Node.js**
+- 🧩 Learning more about **modern backend architecture patterns**
+
+---
+
+## 🤝 Let's Connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/mohan-c/)
+- 📧 Email: [cmohanbe2010@gmail.com](mailto:cmohanbe2010@gmail.com)
+
+---
 
 Happy Coding! 🚀
 
