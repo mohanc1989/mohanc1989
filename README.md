@@ -17,7 +17,7 @@ I enjoy optimizing systems, leading backend upgrades, mentoring junior developer
 
 - **Languages:** PHP, Node.js, JavaScript
 - **Frameworks:** Laravel, Lumen, CodeIgniter
-- **Databases:** MySQL, Redis
+- **Databases:** MySQL, mongodb
 - **Cloud & DevOps:** AWS (SNS, SQS, S3, Lambda), Docker, CI/CD
 - **Version Control:** Git, GitLab, Bitbucket
 - **CMS:** WordPress, Shopify, Joomla
