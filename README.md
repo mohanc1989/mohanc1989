@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Mohan C
 
-🚀 **Backend Developer | Staff Software Engineer**  
+🚀 **Backend Developer**  
 🎯 Passionate about building scalable, secure, and high-performing backend systems.
 
 ---
